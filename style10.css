@@ -75,5 +75,9 @@ main {
   width: 100%;
 }
 
+.step-box:last-child{
+   margin: 20px auto;
+}
+
 
 }
